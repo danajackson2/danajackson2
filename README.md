@@ -1,4 +1,4 @@
-### Hi I'm Dana 👋
+<img src="https://postimg.cc/v1CKG2G7"/>
 
 #### About Me
 I'm a full stack developer with experience in JavaScript, Ruby, HTML, CSS, Ruby on Rails, React, ActiveRecord, SQL, Version Control Systems, UI Design Command Lines, Debugging, Object Oriented Design.
