@@ -33,7 +33,7 @@ A fun game combining a traditional spelling bee with a game board. Different lev
 
 #### [Food Connect](https://youtu.be/B0B4GIFyu7I)<br>
 An app to connect grocery stores and foodbanks to volunteers who will transport otherwise unused food so that it can be donated to those in need.<br>
-[github.com/dainbrownlow08/Food-Connect](https://github.com/dainbrownlow08/Food-Connect)
+[github.com/dainbrownlow08/Food-Connect](https://github.com/danajackson2/food-connect)
 
 
 
