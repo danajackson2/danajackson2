@@ -20,6 +20,12 @@ An app to help musicians track their practice sessions, with useful tools like a
 [github.com/danajackson2/practice-tracker-frontend](github.com/danajackson2/practice-tracker-frontend)
 
 
+#### [Get Cookin'](https://getcookin.herokuapp.com)<br>
+Create and share recipes with friends on this instagram-like app.<br>
+[github.com/danajackson2/recipe-app-frontend](https://github.com/danajackson2/recipe-app-frontend)
+[github.com/danajackson2/recipe-app-backend](https://github.com/danajackson2/recipe-app-backend)
+
+
 #### [News Choose](https://news-choose.herokuapp.com)<br>
 Pick the articles you want to read and create a customized newspaper with articles sourced from The Guardian. Read papers that have been created by other users.<br>
 [github.com/danajackson2/newspaper-app-backend](github.com/danajackson2/newspaper-app-backend)<br>
@@ -35,11 +41,6 @@ A fun game combining a traditional spelling bee with a game board. Different lev
 An app to connect grocery stores and foodbanks to volunteers who will transport otherwise unused food so that it can be donated to those in need.<br>
 [github.com/dainbrownlow08/Food-Connect](https://github.com/danajackson2/food-connect)
 
-
-#### [Get Cookin'](https://getcookin.herokuapp.com)<br>
-Create and share recipes with friends on this instagram-like app.<br>
-[github.com/danajackson2/recipe-app-frontend](https://github.com/danajackson2/recipe-app-frontend)
-[github.com/danajackson2/recipe-app-backend](https://github.com/danajackson2/recipe-app-backend)
 
 
 
