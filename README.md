@@ -45,9 +45,9 @@ An app to connect grocery stores and foodbanks to volunteers who will transport 
 
 
 ### Get in Touch
-danajackson2@gmail.com<br>
-[danajackson.medium.com](danajackson.medium.com)<br>
-https://www.linkedin.com/in/danajackson2/
+[email](danajackson2@gmail.com)<br>
+[blog](danajackson.medium.com)<br>
+[linkedin](https://www.linkedin.com/in/danajackson2/)
 
 
 
